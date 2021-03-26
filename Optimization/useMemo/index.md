@@ -1,0 +1,1 @@
+No renderiza al componente si este no ha cambiado sus props
